@@ -1,4 +1,4 @@
-# Allgemeine Fakten über Proteine
+# Allgemeine Fakten über Proteine/Vorteile einer Ernährung mit viel Protein
 
 ---
 
@@ -17,8 +17,10 @@
 
 ---
 
-## 3. Aminosäuren
+## 3. Vorteile/Sonstiges
 
-- Proteine bestehen aus Aminosäuren, die durch Peptidbindungen verbunden sind.
-- Es gibt 20 verschiedene Aminosäuren, die in verschiedenen Kombinationen und Reihenfolgen auftreten können.
+ - Der Körper benötigt 0.8g Protein pro kg täglich.
+ - Proteinreiche Nahrung hat einen hohen Sättigungswert -> verhindert Überessen
+ - Proteine liefern Energie
+
 
